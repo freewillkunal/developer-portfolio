@@ -8,9 +8,13 @@
 | [developer-portfolio](https://github.com/freewillkunal/developer-portfolio) | This portfolio index | Markdown | Active |
 ---
 ## Current Skills
+
+```
 Python [#####-----] 50%
 Linux / Bash [####------] 40%
-Git / Github [#####-----] 50%
+Git / GitHub [#####-----] 50%
+```
+
 ---
 ## Learning Roadmap
 See [LEARNING_ROADMAP.md](./LEARNING_ROADMAP.md) for my full 6-Semester plan.
